@@ -1,5 +1,5 @@
 # move vimrc into place
-mv .vimrc ~
+cp .vimrc ~
 
 # Color scheme
 mkdir -p ~/.vim/colors && cd ~/.vim/colors
